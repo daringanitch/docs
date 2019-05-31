@@ -12,7 +12,7 @@ section_menu_id: guides
 
 > New to KubeDB? Please start [here](/docs/concepts/README.md).
 
-# Run MongoDB with Custom Configuration
+# Run mongodb with TLS/SSL (Transport Encryption)
 
 KubeDB supports providing custom configuration for MongoDB via [PodTemplate](/docs/concepts/databases/mongodb.md#specpodtemplate). This tutorial will show you how to use KubeDB to run a MongoDB database with custom configuration using PodTemplate.
 
